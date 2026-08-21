@@ -1,2 +1,0 @@
-i am bhavana
-this is a local file which will be sent to GitHub 
